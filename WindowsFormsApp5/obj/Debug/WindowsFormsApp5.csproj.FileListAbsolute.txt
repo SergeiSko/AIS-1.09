@@ -1,0 +1,54 @@
+C:\Users\Рена\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Рена\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.Cache
+C:\Users\Рена\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Рена\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Db\Database1.mdf
+C:\Users\Рена\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Db\Database1_log.ldf
+C:\Users\Рена\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Рена\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Рена\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Рена\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Рена\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Рена\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Рена\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form2.resources
+C:\Users\Рена\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form3.resources
+C:\Users\Рена\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form4.resources
+C:\Users\Рена\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form5.resources
+C:\Users\Рена\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojResolveAssemblyReference.cache
+C:\DELL\Сергей\рабочий стол\17-11-26\WindowsFormsApp5 - копия\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\DELL\Сергей\рабочий стол\17-11-26\WindowsFormsApp5 - копия\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\DELL\Сергей\рабочий стол\17-11-26\WindowsFormsApp5 - копия\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\DELL\Сергей\рабочий стол\17-11-26\WindowsFormsApp5 - копия\WindowsFormsApp5\bin\Debug\Db\Database1.mdf
+C:\DELL\Сергей\рабочий стол\17-11-26\WindowsFormsApp5 - копия\WindowsFormsApp5\bin\Debug\Db\Database1_log.ldf
+C:\DELL\Сергей\рабочий стол\17-11-26\WindowsFormsApp5 - копия\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\DELL\Сергей\рабочий стол\17-11-26\WindowsFormsApp5 - копия\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\DELL\Сергей\рабочий стол\17-11-26\WindowsFormsApp5 - копия\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojResolveAssemblyReference.cache
+C:\DELL\Сергей\рабочий стол\17-11-26\WindowsFormsApp5 - копия\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form3.resources
+C:\DELL\Сергей\рабочий стол\17-11-26\WindowsFormsApp5 - копия\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form4.resources
+C:\DELL\Сергей\рабочий стол\17-11-26\WindowsFormsApp5 - копия\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form5.resources
+C:\DELL\Сергей\рабочий стол\17-11-26\WindowsFormsApp5 - копия\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\DELL\Сергей\рабочий стол\17-11-26\WindowsFormsApp5 - копия\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.Cache
+C:\DELL\Сергей\рабочий стол\17-11-26\WindowsFormsApp5 - копия\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Student.resources
+C:\DELL\Сергей\рабочий стол\17-11-26\WindowsFormsApp5 - копия\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Teacher.resources
+C:\DELL\Сергей\рабочий стол\17-11-26\WindowsFormsApp5 - копия\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Enter.resources
+C:\DELL\Сергей\рабочий стол\17-11-26\WindowsFormsApp5 - копия\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Admin.resources
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\bin\Debug\Db\Database1.mdf
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\bin\Debug\Db\Database1_log.ldf
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojResolveAssemblyReference.cache
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Enter.resources
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Admin.resources
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form3.resources
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form4.resources
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form5.resources
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Student.resources
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Teacher.resources
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.Cache
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.manifest
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.application
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe.manifest
+C:\Users\Sergei\Documents\Visual Studio 2015\Projects\К показу\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.application
